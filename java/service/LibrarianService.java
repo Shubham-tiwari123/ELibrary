@@ -1,6 +1,6 @@
-package com.springpro.elibrary.controller.service;
+package com.springpro.elibrary.service;
 
-import com.springpro.elibrary.controller.dao.LibrarianFunctionDao;
+import com.springpro.elibrary.dao.LibrarianFunctionDao;
 import com.springpro.elibrary.entity.AddBook;
 import com.springpro.elibrary.entity.IssueBook;
 import com.springpro.elibrary.entity.ReturnBook;

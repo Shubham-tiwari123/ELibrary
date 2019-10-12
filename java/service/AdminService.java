@@ -1,6 +1,6 @@
-package com.springpro.elibrary.controller.service;
+package com.springpro.elibrary.service;
 
-import com.springpro.elibrary.controller.dao.AdminFunctionDao;
+import com.springpro.elibrary.dao.AdminFunctionDao;
 import com.springpro.elibrary.entity.AddLibrarian;
 import java.util.List;
 import org.springframework.stereotype.Service;

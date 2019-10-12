@@ -1,7 +1,7 @@
 package com.springpro.elibrary.controller;
 
-import com.springpro.elibrary.controller.service.LibrarianLoginService;
-import com.springpro.elibrary.controller.service.LibrarianService;
+import com.springpro.elibrary.controller.LibrarianLoginService;
+import com.springpro.elibrary.controller.LibrarianService;
 import com.springpro.elibrary.entity.AddBook;
 import com.springpro.elibrary.entity.IssueBook;
 import com.springpro.elibrary.entity.LoginDetails;

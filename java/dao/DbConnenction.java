@@ -1,4 +1,4 @@
-package com.springpro.elibrary.controller.dao;
+package com.springpro.elibrary.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

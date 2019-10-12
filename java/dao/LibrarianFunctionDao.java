@@ -1,4 +1,4 @@
-package com.springpro.elibrary.controller.dao;
+package com.springpro.elibrary.dao;
 
 import com.springpro.elibrary.entity.AddBook;
 import com.springpro.elibrary.entity.IssueBook;

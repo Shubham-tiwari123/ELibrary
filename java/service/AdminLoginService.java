@@ -1,4 +1,4 @@
-package com.springpro.elibrary.controller.service;
+package com.springpro.elibrary.service;
 
 import com.springpro.elibrary.entity.LoginDetails;
 import org.springframework.stereotype.Service;

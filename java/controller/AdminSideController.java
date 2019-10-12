@@ -1,7 +1,7 @@
 package com.springpro.elibrary.controller;
 
-import com.springpro.elibrary.controller.service.AdminService;
-import com.springpro.elibrary.controller.service.AdminLoginService;
+import com.springpro.elibrary.controller.AdminService;
+import com.springpro.elibrary.controller.AdminLoginService;
 import com.springpro.elibrary.entity.AddLibrarian;
 import com.springpro.elibrary.entity.LoginDetails;
 import java.io.IOException;
